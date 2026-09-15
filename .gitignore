@@ -1,0 +1,5 @@
+MLA_Final_Project/Datasets_Final/
+MLA_Final_Project/*.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
